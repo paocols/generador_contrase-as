@@ -4,7 +4,6 @@ Este es un generador de contraseñas sencillo y eficiente, desarrollado en PHP, 
 ## Funcionalidades
 - Generación de contraseñas aleatorias.
 - Interfaz simple y fácil de usar.
-- Compatible con cualquier navegador moderno.
   
 ## Instalación
 - Clona este repositorio:
